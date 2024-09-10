@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-09-10T07:58:46 IST" name="Surefire suite" finished-at="2024-09-10T07:58:47 IST" duration-ms="183">
+    <groups>
+    </groups>
+    <test started-at="2024-09-10T07:58:46 IST" name="Surefire test" finished-at="2024-09-10T07:58:47 IST" duration-ms="183">
+      <class name="programs.POM_Concept.AppTest">
+        <test-method signature="shouldAnswerWithTrue()" started-at="2024-09-10T07:58:47 IST" name="shouldAnswerWithTrue" finished-at="2024-09-10T07:58:47 IST" duration-ms="40" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shouldAnswerWithTrue -->
+      </class> <!-- programs.POM_Concept.AppTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
